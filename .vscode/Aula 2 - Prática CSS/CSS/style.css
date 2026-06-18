@@ -2,8 +2,15 @@ h1 {
   color: aqua;
 }
 
-button {
+.botaoroxo {
   background: #5f11e2;
+  border-radius: 5px;
+  color: white;
+  padding: 1rem 2rem 1rem 2rem;
+}
+
+button {
+  background: yellowgreen;
   border-radius: 5px;
   color: white;
   padding: 1rem 2rem 1rem 2rem;
