@@ -36,3 +36,18 @@ button {
   height: 100%;
   justify-content: center;
 }
+
+.botao1 {
+  background: #007bff;
+  color: #fff;
+}
+
+.botao2 {
+  background-color: burlywood;
+  color: #222;
+}
+
+.botao3 {
+  background-color: #28a745;
+  color: #fff;
+}
