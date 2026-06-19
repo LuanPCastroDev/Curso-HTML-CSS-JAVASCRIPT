@@ -35,11 +35,13 @@ button {
   align-items: center;
   height: 100%;
   justify-content: center;
+  gap: 16px;
 }
 
 .botao1 {
   background: #007bff;
   color: #fff;
+  font-family: "Outfit", sans-serif;
 }
 
 .botao2 {
