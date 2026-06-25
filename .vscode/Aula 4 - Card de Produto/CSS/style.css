@@ -32,3 +32,18 @@ p {
 .justify between {
   justify-content: space-between;
 }
+.botaoprimario {
+  all: unset;
+  border-radius: 0.5rem;
+  background: #007bff;
+  color: #fff;
+  padding: 1rem;
+}
+
+.botaosecundario {
+  all: unset;
+  border-radius: 0.5rem;
+  background: #6c757d;
+  color: #fff;
+  padding: 1rem;
+}
