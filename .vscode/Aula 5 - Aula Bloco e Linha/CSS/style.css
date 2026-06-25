@@ -1,0 +1,8 @@
+.bloco {
+  display: block;
+}
+
+.bloco1 {
+  display: inline;
+  background-color: gray;
+}
