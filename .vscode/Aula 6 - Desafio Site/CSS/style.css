@@ -36,3 +36,40 @@ button {
   padding: 1rem;
   background-color: #f8f9fa;
 }
+
+.conteudo-principal {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.container {
+  flex: 1;
+}
+
+.conteudo-principal img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .conteudo-principal {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .conteudo-principal img {
+    width: 220px;
+    height: 220px;
+  }
+}
+
+.rodape {
+  text-align: center;
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
