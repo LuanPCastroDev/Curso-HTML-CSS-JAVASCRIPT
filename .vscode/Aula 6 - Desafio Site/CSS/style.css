@@ -18,3 +18,21 @@ h2 {
 p {
   font-size: 1rem;
 }
+
+button {
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+.menunavegacao {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #f8f9fa;
+}
