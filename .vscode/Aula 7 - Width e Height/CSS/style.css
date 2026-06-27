@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /*configuração global para todos os elementos da página, garantindo que o padding e a borda sejam incluídos na largura e altura total do elemento.*/
+}
+
+.escuro {
+  background-color: black;
+  color: white;
+}
+
+.branco {
+  background-color: white;
+  color: black;
+}
