@@ -5,12 +5,19 @@
   /*configuração global para todos os elementos da página, garantindo que o padding e a borda sejam incluídos na largura e altura total do elemento.*/
 }
 
+.container {
+  display: flex;
+}
 .escuro {
   background-color: black;
   color: white;
+  width: 50%;
+  height: 100vh;
 }
 
 .branco {
   background-color: white;
   color: black;
+  width: 50%;
+  height: 100vh;
 }
